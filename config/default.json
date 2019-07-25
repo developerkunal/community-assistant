@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb link",
+    "jwtSec": "JWTSECREAT",
+    "githubclient": "GITHUB CLIENT API",
+    "client_secret": "GITHUB CLIENT SECRET KEY"
+}
